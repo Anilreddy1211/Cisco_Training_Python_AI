@@ -1,0 +1,16 @@
+1. Function
+Definition:
+A function is a reusable block of code that performs a specific task. It can be called independently.
+2.Method
+Definition:
+A method is a function that is associated with an object or class. It is usually called using the dot (.) operator.
+| **Function** | **Method** |
+|---|---|
+| Independent/reusable block of code | Associated with an object/class |
+| Called directly | Usually called using `.` (dot operator) |
+| `print()` | `text.upper()` |
+| `len(text)` | `text.upper()` |
+| `input()` | `text.split()` |
+| `type()` | `text.strip()` |
+| `int()` | `text.replace()` |
+| `float()` | `text.find()` |
